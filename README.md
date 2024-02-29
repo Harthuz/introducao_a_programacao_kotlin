@@ -1,2 +1,2 @@
-![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+![Logo do R](https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png)
 # introducao_a_programacao_kotlin
